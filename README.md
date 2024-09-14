@@ -1,4 +1,4 @@
-# WhatsApp Chat Analysis Machine Learning Model
+# WhatsApp Chat Analysis 
 
 This machine learning model is designed to analyze both group and individual WhatsApp chats, offering detailed insights into messaging patterns and user behavior. 
 
