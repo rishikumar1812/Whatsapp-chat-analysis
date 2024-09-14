@@ -5,6 +5,7 @@ urlextract == 1.9.0
 matplotlib == 3.7.1
 seaborn == 0.12.2
 wordcloud == 1.9.3
+numpy == 2.1.1
 
 
 
