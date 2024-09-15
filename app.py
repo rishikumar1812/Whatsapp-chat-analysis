@@ -22,7 +22,7 @@ st.write("""
 
     Ready to explore? Just upload your chat file, and let's get started! 🚀
     """)
-st.image('image.png',use_column_width=True)
+
 
 st.sidebar.title('WhatsApp Chat Analyzer')
 
